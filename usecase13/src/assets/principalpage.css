@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+.grid-container {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(128, 18.6796875px);
+
+  background-color:rgba(234.29998755455017,234.29998755455017,234.29998755455017,1.0);
+  width: 100%;
+  min-height: 100vh;
+  max-height: auto;
+  margin:0;
+  padding:0;
+  }
+ 
+.grid-item {
+  display:flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.sdatepicker23201811 {
+    grid-column-start: 10;
+    grid-column-end: 21;
+    grid-row-start: 81;
+    grid-row-end: 84;
+}
+
+:deep(.sdatepicker23201811 .p-datepicker-input){
+	background-color: rgba(255.0,255.0,255.0,1.0);
+}
+ 
+ :deep(.sdatepicker23201811 .p-datepicker-dropdown .p-icon){
+	color: rgba(0.0,0.0,0.0,1.0);
+}
+
+:deep(.sdatepicker23201811 .p-datepicker-dropdown){
+	background-color:rgba(234.29998755455017,234.29998755455017,234.29998755455017,1.0);
+}
+  

@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+.grid-container {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(128, 18.6796875px);
+
+  background:linear-gradient(152.56747598635454deg, rgba(23.326779194176197,15.71730561554432,66.44713327288628,255.0) 3%, rgba(131.57294064760208,131.57294064760208,131.57294064760208,255.0) 100%);
+  width: 100%;
+  min-height: 100vh;
+  max-height: auto;
+  margin:0;
+  padding:0;
+  }
+ 
+.grid-item {
+  display:flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.ellipse29649 {
+    grid-column-start: 27;
+    grid-column-end: 40;
+    grid-row-start: 56;
+    grid-row-end: 83;
+    grid-template-columns:repeat(64,1fr);
+    grid-template-rows:repeat(64,1fr);
+    aspect-ratio: 1;
+    clip-path: circle(50% at 50% 50%);
+    height: 500.0px;
+    width: 500.0px;
+  background:radial-gradient(50% 50% at 49.99998766792956% 49.99999775384363%, rgba(43.889408111572266,9.621903542429209,9.621903542429209,255.0) 0.2118125557899475%, rgba(51.75506964325905,24.79365438222885,105.67790016531944,255.0) 45.673078298568726%, rgba(221.40866249799728,8.515717349946499,157.71067410707474,255.0) 72.8365421295166%, rgba(141.96632534265518,53.51040445268154,53.51040445268154,255.0) 100.0%);
+	display: grid;
+	  border: 0;}
+.container2965182 {
+	background-color: rgba(52.471137419342995,52.471137419342995,52.471137419342995,1.0);
+	grid-column-start: 39;
+	grid-column-end: 59;
+	grid-row-start: 103;
+	grid-row-end: 124;
+	margin-left: 200px;
+	display: flex;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.scroll-wrapper2965182 {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    cursor: grab;
+    user-select: none;
+  	display: grid;
+    width: 791.0px;
+    height: 401.0px;
+    grid-column-start: 39;
+    grid-column-end: 59;
+    grid-row-start: 103;
+    grid-row-end: 124;
+  }
+
+  .scroll-wrapper2965182.active {
+    cursor: grabbing;
+  }
+
+.container2965189 {
+	height: 300.0px;
+	background-color: rgba(255.0,255.0,255.0,1.0);
+	margin: 1em;
+	min-height: 300.0px;
+	min-width: 0.0px;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.text2965198 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 2.8409090909090913vw;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+	line-height: 91px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 283;
+	grid-column-end: 65;
+	grid-row-start: 23;
+	grid-row-end: 42;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+

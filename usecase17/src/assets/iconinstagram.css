@@ -1,0 +1,58 @@
+
+.component2735122 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:38;
+  grid-column-end:48;
+  grid-row-start:1;
+  grid-row-end:64;
+  margin:0;
+  padding:0;
+  background-color:rgba(0.0,0.0,0.0,0.0);
+
+}
+  
+.grid-item-2735122 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.container1421637 {
+	grid-column-start: 7;
+	grid-column-end: 60;
+	grid-row-start: 7;
+	grid-row-end: 59;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container1421638 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+.container1421639 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 17;
+	grid-column-end: 49;
+	grid-row-start: 17;
+	grid-row-end: 48;
+}
+
+.container1421640 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 48;
+	grid-column-end: 56;
+	grid-row-start: 12;
+	grid-row-end: 19;
+}
+

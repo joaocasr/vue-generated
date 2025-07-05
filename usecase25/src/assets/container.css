@@ -1,0 +1,134 @@
+
+.component29334664 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:7;
+  grid-column-end:59;
+  grid-row-start:19;
+  grid-row-end:106;
+  margin:0;
+  padding:0;
+  background-color:rgba(231.46160066127777,242.44620323181152,255.0,1.0);
+
+}
+  
+.grid-item-29334664 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.stable29334432 {
+    grid-column-start: 11;
+    grid-column-end: 56;
+    grid-row-start: 39;
+    grid-row-end: 57;
+    --p-datatable-row-background: rgba(205.48751682043076,203.26141387224197,203.26141387224197,1.0);
+    --p-datatable-body-cell-border-color: rgba(205.48751682043076,203.26141387224197,203.26141387224197,1.0);
+    --p-datatable-row-color: rgba(0.0,0.0,0.0,1.0);
+}
+:deep(.stable29334432 .p-datatable-header-cell){
+  background:rgba(64.38749179244041,64.38749179244041,64.38749179244041,1.0);
+  color:rgba(255.0,255.0,255.0,1.0);
+}
+
+
+.sdatepicker29334312 {
+    grid-column-start: 11;
+    grid-column-end: 24;
+    grid-row-start: 9;
+    grid-row-end: 10;
+}
+
+:deep(.sdatepicker29334312 .p-datepicker-input){
+	background-color: rgba(255.0,255.0,255.0,1.0);
+}
+ 
+ :deep(.sdatepicker29334312 .p-datepicker-dropdown .p-icon){
+	color: rgba(0.0,0.0,0.0,1.0);
+}
+
+:deep(.sdatepicker29334312 .p-datepicker-dropdown){
+	background-color:rgba(234.29998755455017,234.29998755455017,234.29998755455017,1.0);
+}
+  
+.scheckbox29334318 {
+    grid-column-start: 32;
+    grid-column-end: 40;
+    grid-row-start: 9;
+    grid-row-end: 15;
+    margin:5px;
+    --p-checkbox-background:  rgba(255.0,255.0,255.0,1.0);
+    --p-checkbox-border-radius:4.0px;
+  }
+
+  .labelscheckbox29334318 {
+    color: rgba(0.0,0.0,0.0,1.0);
+    margin-left: 5px;
+    position: relative;
+    top:3px;
+  }
+  
+.svueselect29334331 {
+    grid-column-start: 48;
+    grid-column-end: 56;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+
+div:deep(.svueselect29334331 .v-input__control) {
+  display: flex;
+  grid-area: control;
+  min-width: 300px;
+  background-color:rgba(255.0,255.0,255.0,1.0);
+  color: rgba(49.32124704122543,48.94140422344208,67.93359830975533,1.0);
+  border-radius: 8.0px;
+}
+
+div:deep(.svueselect29334331 .v-field__outline) {
+  --v-field-border-width:0px;
+  --v-field-border-opacity:0;
+}
+
+  
+.form29334395 {
+    grid-column-start: 10;
+    grid-column-end: 26;
+    grid-row-start: 24;
+    grid-row-end: 33;
+  }
+ 
+  .submitbtnform29334395 {
+    background-color: rgba(106.88748925924301,105.37329331040382,105.37329331040382,1.0);
+    border-radius: 8px;
+    width:200px;
+    height:50px;
+    margin-top: 10px;
+    position: relative;
+    left:  87.3076923076923px;
+  }
+.inputform29334395 .p-inputtext{ 
+  --p-inputtext-background:rgba(43.00000123679638,42.000001296401024,44.000001177191734,1.0);
+  width: 349.2307692307692px;
+  color: rgba(201.23750567436218,201.23750567436218,201.23750567436218,1.0);
+}
+
+.sslider29334404 {
+    grid-column-start: 38;
+    grid-column-end: 48;
+    grid-row-start: 27;
+    grid-row-end: 28;
+    --p-slider-track-background:  rgba(230.00000149011612,224.000001847744,246.0000005364418,1.0);
+}
+
+div:deep(.sslider29334404 .p-slider-range){
+    --p-slider-range-background:  rgba(88.72808888554573,35.6744921207428,234.62549328804016,1.0);
+}
+ 
+div:deep(.sslider29334404 .p-slider-handle){
+    --p-slider-handle-content-background:  rgba(88.72808888554573,35.6744921207428,234.62549328804016,1.0);
+    --p-slider-handle-content-hover-background: rgba(88.72808888554573,35.6744921207428,234.62549328804016,1.0);
+}

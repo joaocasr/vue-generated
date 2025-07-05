@@ -1,0 +1,30 @@
+
+.component2735118 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:1;
+  grid-column-end:65;
+  grid-row-start:35;
+  grid-row-end:64;
+  margin:0;
+  padding:0;
+  background-color:rgba(0.0,0.0,0.0,1.0);
+
+}
+  
+.grid-item-2735118 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  .container1251462 {
+	grid-column-start: 2;
+	grid-column-end: 64;
+	grid-row-start: 5;
+	grid-row-end: 61;
+	border-radius: 4.0px;
+}
+

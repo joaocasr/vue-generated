@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.component2879983 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:1;
+  grid-column-end:11;
+  grid-row-start:1;
+  grid-row-end:64;
+  margin:0;
+  padding:0;
+  border: 1.0px solid rgba(0.0,0.0,0.0,1.0);
+  background-color:rgba(0.0,0.0,0.0,0.0);
+
+  border-radius: 4.0px;
+}
+  
+.grid-item-2879983 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.component2879378 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:1;
+  grid-column-end:11;
+  grid-row-start:1;
+  grid-row-end:64;
+  margin:0;
+  padding:0;
+  border: 1.0px solid rgba(0.0,0.0,0.0,1.0);
+  background-color:rgba(0.0,0.0,0.0,0.0);
+
+  border-radius: 4.0px;
+}
+  
+.grid-item-2879378 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  

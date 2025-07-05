@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.component2811125 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:None;
+  grid-column-end:None;
+  grid-row-start:None;
+  grid-row-end:None;
+  margin:0;
+  padding:0;
+  box-shadow: 0px 1px 13px 0px rgba(0.0,0.0,0.0,0.05000000074505806);
+  background-color:rgba(219.0000021457672,68.00000354647636,68.00000354647636,1.0);
+
+  border-radius: 4.0px;
+}
+  
+.grid-item-2811125 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.text2811126 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 14.545454545454545px;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 24px;
+	color: rgba(255.0,255.0,255.0,1.0);
+	grid-column-start: 23;
+	grid-column-end: 45;
+	grid-row-start: 44;
+	grid-row-end: 50;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.container2814206 {
+	grid-column-start: 24;
+	grid-column-end: 43;
+	grid-row-start: 21;
+	grid-row-end: 42;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container2814207 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+.container2814208 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 5;
+	grid-column-end: 62;
+	grid-row-start: 16;
+	grid-row-end: 50;
+}
+
+.container2814209 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 16;
+	grid-column-end: 30;
+	grid-row-start: 27;
+	grid-row-end: 40;
+}
+
+.container2814210 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 39;
+	grid-column-end: 43;
+	grid-row-start: 29;
+	grid-row-end: 32;
+}
+
+.container2814211 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 47;
+	grid-column-end: 51;
+	grid-row-start: 34;
+	grid-row-end: 37;
+}
+
