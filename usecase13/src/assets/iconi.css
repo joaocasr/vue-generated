@@ -23,3 +23,23 @@
   height: 100%;
 }
   
+.text22237 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 3.0303030303030303vw;
+	font-family: 'Inter', sans-serif;
+	text-align: center;
+	line-height: 97px;
+	color: rgba(255.0,255.0,255.0,1.0);
+	grid-column-start: 30;
+	grid-column-end: 37;
+	grid-row-start: 13;
+	grid-row-end: 51;
+	display: flex;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
+}
+

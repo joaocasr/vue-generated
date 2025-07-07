@@ -9,13 +9,13 @@
 </template>
 
 <script>
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 import Variantframe726 from '@/components/Variantframe726.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 import Variantframe725 from '@/components/Variantframe725.vue';
 export default {
     components:{
-        Variantcategoryphone,
         Variantframe726,
+        Variantcategoryphone,
         Variantframe725
     },
     data(){

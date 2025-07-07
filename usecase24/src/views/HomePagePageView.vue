@@ -918,46 +918,46 @@
 </template>
 
 <script>
-import Cart2data from '@/components/Cart2data.vue';
-import Topheader from '@/components/Topheader.vue';
-import Cart7data from '@/components/Cart7data.vue';
 import Variantflashselltimer from '@/components/Variantflashselltimer.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Cart6data from '@/components/Cart6data.vue';
-import Line3 from '@/components/Line3.vue';
-import Header from '@/components/Header.vue';
-import Rectangle18 from '@/components/Rectangle18.vue';
-import Fillwithleftarrow from '@/components/Fillwithleftarrow.vue';
-import Cart3data from '@/components/Cart3data.vue';
-import Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data from '@/components/Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data.vue';
-import Cart5data from '@/components/Cart5data.vue';
+import Cart7data from '@/components/Cart7data.vue';
 import Fillwithrightarrow from '@/components/Fillwithrightarrow.vue';
-import Cart1data from '@/components/Cart1data.vue';
-import Iconsarrowright from '@/components/Iconsarrowright.vue';
+import Line3 from '@/components/Line3.vue';
 import Footer from '@/components/Footer.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data from '@/components/Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data.vue';
+import Rectangle18 from '@/components/Rectangle18.vue';
+import Cart2data from '@/components/Cart2data.vue';
+import Iconsarrowright from '@/components/Iconsarrowright.vue';
+import Fillwithleftarrow from '@/components/Fillwithleftarrow.vue';
+import Header from '@/components/Header.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Cart6data from '@/components/Cart6data.vue';
+import Topheader from '@/components/Topheader.vue';
 import Underline from '@/components/Underline.vue';
+import Cart1data from '@/components/Cart1data.vue';
+import Cart5data from '@/components/Cart5data.vue';
+import Cart3data from '@/components/Cart3data.vue';
 export default {
     components:{
-        Cart2data,
-        Topheader,
-        Cart7data,
         Variantflashselltimer,
-        Cart4data,
-        Variantcategoryphone,
-        Cart6data,
-        Line3,
-        Header,
-        Rectangle18,
-        Fillwithleftarrow,
-        Cart3data,
-        Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data,
-        Cart5data,
+        Cart7data,
         Fillwithrightarrow,
-        Cart1data,
-        Iconsarrowright,
+        Line3,
         Footer,
-        Underline
+        Variantcategoryphone,
+        Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data,
+        Rectangle18,
+        Cart2data,
+        Iconsarrowright,
+        Fillwithleftarrow,
+        Header,
+        Cart4data,
+        Cart6data,
+        Topheader,
+        Underline,
+        Cart1data,
+        Cart5data,
+        Cart3data
     },
     data(){
         return {

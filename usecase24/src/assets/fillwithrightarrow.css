@@ -21,3 +21,24 @@
   height: 100%;
 }
   
+.ellipse612861 {
+    grid-column-start: 1;
+    grid-column-end: 65;
+    grid-row-start: 1;
+    grid-row-end: 64;
+    grid-template-columns:None;
+    grid-template-rows:None;
+    aspect-ratio: 1;
+    clip-path: circle(50% at 50% 50%);
+    height: 46.0px;
+    width: 46.0px;
+  background-color:rgba(245.00000059604645,245.00000059604645,245.00000059604645,1.0);
+	display: grid;
+	  border: 0;}.container45274 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 8;
+	grid-column-end: 57;
+	grid-row-start: 12;
+	grid-row-end: 53;
+}
+

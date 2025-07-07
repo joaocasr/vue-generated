@@ -1,16 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alegreya Sans SC:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alegreya Sans:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alatsi:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Open Sans:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Instrument Sans:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
 
 .grid-container {
   display:grid;

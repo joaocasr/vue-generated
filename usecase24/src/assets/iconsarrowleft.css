@@ -20,4 +20,11 @@
   width: 100%;
   height: 100%;
 }
-  
+  .container45270 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 9;
+	grid-column-end: 58;
+	grid-row-start: 12;
+	grid-row-end: 55;
+}
+

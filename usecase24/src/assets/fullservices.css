@@ -47,3 +47,313 @@
   height: 100%;
 }
   
+.ellipse1201415 {
+    grid-column-start: 1;
+    grid-column-end: 65;
+    grid-row-start: 1;
+    grid-row-end: 64;
+    grid-template-columns:None;
+    grid-template-rows:None;
+    aspect-ratio: 1;
+    clip-path: circle(50% at 50% 50%);
+    height: 80.0px;
+    width: 80.0px;
+  background-color:rgba(47.0000009983778,46.000001057982445,48.000000938773155,1.0);
+	display: grid;
+	opacity: 30.000001192092896%;
+	  border: 0;}
+.ellipse1201416 {
+    grid-column-start: 1;
+    grid-column-end: 64;
+    grid-row-start: 10;
+    grid-row-end: 56;
+    grid-template-columns:None;
+    grid-template-rows:None;
+    aspect-ratio: 1;
+    clip-path: circle(50% at 50% 50%);
+    height: 58.0px;
+    width: 58.0px;
+  background-color:rgba(0.0,0.0,0.0,1.0);
+	display: block;
+	  border: 0;}.container1201367 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+.container1201368 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 13;
+	grid-column-end: 28;
+	grid-row-start: 39;
+	grid-row-end: 53;
+}
+
+.container1201369 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 39;
+	grid-column-end: 54;
+	grid-row-start: 39;
+	grid-row-end: 53;
+}
+
+.container1201370 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 5;
+	grid-column-end: 60;
+	grid-row-start: 13;
+	grid-row-end: 48;
+}
+
+.container1201379 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 4;
+	grid-column-end: 59;
+	grid-row-start: 12;
+	grid-row-end: 47;
+}
+
+.container1201371 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 7;
+	grid-column-end: 22;
+	grid-row-start: 18;
+	grid-row-end: 21;
+}
+
+.container1201372 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 2;
+	grid-column-end: 17;
+	grid-row-start: 24;
+	grid-row-end: 27;
+}
+
+.container1201373 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 7;
+	grid-column-end: 22;
+	grid-row-start: 30;
+	grid-row-end: 33;
+}
+
+
+.container28792937 {
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 42;
+	grid-row-end: 64;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.text28792938 {
+	font-style: SemiBold;
+	font-weight: 600;
+	font-size: 1.3888888888888888vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 28px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 2;
+	grid-column-end: 65;
+	grid-row-start: 9;
+	grid-row-end: 25;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.text28792939 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 0.9722222222222222vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	line-height: 21px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 46;
+	grid-row-end: 62;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
+}
+
+.container1201362 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 6;
+	grid-column-end: 61;
+	grid-row-start: 11;
+	grid-row-end: 56;
+}
+
+
+.container28792932 {
+	grid-column-start: 3;
+	grid-column-end: 64;
+	grid-row-start: 42;
+	grid-row-end: 64;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.text28792933 {
+	font-style: SemiBold;
+	font-weight: 600;
+	font-size: 1.3888888888888888vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 28px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 3;
+	grid-row-end: 28;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.text28792934 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 0.9722222222222222vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 21px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 5;
+	grid-column-end: 62;
+	grid-row-start: 43;
+	grid-row-end: 62;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.container1201751 {
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.container1201752 {
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container1201753 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 8;
+	grid-column-end: 59;
+	grid-row-start: 4;
+	grid-row-end: 61;
+}
+
+.container1201754 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 23;
+	grid-column-end: 44;
+	grid-row-start: 23;
+	grid-row-end: 38;
+}
+
+.container1201755 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+
+.container28792927 {
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 42;
+	grid-row-end: 64;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.text28792928 {
+	font-style: SemiBold;
+	font-weight: 600;
+	font-size: 1.3888888888888888vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 28px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 9;
+	grid-row-end: 25;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.text28792929 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 0.9722222222222222vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 21px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 6;
+	grid-column-end: 62;
+	grid-row-start: 46;
+	grid-row-end: 62;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+

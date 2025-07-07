@@ -24,3 +24,125 @@
   height: 100%;
 }
   
+.text2811105 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 14.545454545454545px;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 14;
+	grid-column-end: 52;
+	grid-row-start: 47;
+	grid-row-end: 52;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.container2814245 {
+	grid-column-start: 21;
+	grid-column-end: 43;
+	grid-row-start: 18;
+	grid-row-end: 43;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container2814246 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+.container2814247 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 16;
+	grid-column-end: 51;
+	grid-row-start: 16;
+	grid-row-end: 50;
+}
+
+.container2814248 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 24;
+	grid-column-end: 43;
+	grid-row-start: 48;
+	grid-row-end: 58;
+}
+
+.container2814249 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 24;
+	grid-column-end: 43;
+	grid-row-start: 8;
+	grid-row-end: 18;
+}
+
+
+.container2814250 {
+	grid-column-start: 27;
+	grid-column-end: 39;
+	grid-row-start: 26;
+	grid-row-end: 41;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.line2814251 {
+    grid-column-start: 1;
+    grid-column-end: 15;
+    grid-row-start: 1;
+    grid-row-end: 64;
+    background: None;
+    height: 1px;
+    padding: 0;
+    background-color:rgba(0.0,0.0,0.0,1.0);
+	transform: rotate(1.5707963133452365rad);
+	display: block;
+	    border: solid;
+    border-color: rgba(0.0,0.0,0.0,1.0);
+    border-width: 2.0px;
+}
+.line2814252 {
+    grid-column-start: 27;
+    grid-column-end: 41;
+    grid-row-start: 26;
+    grid-row-end: 64;
+    background: None;
+    height: 1px;
+    padding: 0;
+    background-color:rgba(0.0,0.0,0.0,1.0);
+	transform: rotate(1.5707963049391989rad);
+	display: block;
+	    border: solid;
+    border-color: rgba(0.0,0.0,0.0,1.0);
+    border-width: 2.0px;
+}
+.line2814253 {
+    grid-column-start: 52;
+    grid-column-end: 65;
+    grid-row-start: 16;
+    grid-row-end: 64;
+    background: None;
+    height: 1px;
+    padding: 0;
+    background-color:rgba(0.0,0.0,0.0,1.0);
+	transform: rotate(1.5707963267948966rad);
+	display: block;
+	    border: solid;
+    border-color: rgba(0.0,0.0,0.0,1.0);
+    border-width: 2.0px;
+}

@@ -1,14 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alegreya Sans SC:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alegreya Sans:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Alatsi:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Open Sans:wght@400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 
 .grid-container {
@@ -33,6 +22,59 @@
   height: 100%;
 }
   
+.container29421682 {
+	background-color: rgba(255.0,255.0,255.0,1.0);
+	grid-column-start: 8;
+	grid-column-end: 56;
+	grid-row-start: 41;
+	grid-row-end: 68;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.container29421685 {
+	background-color: rgba(187.81730979681015,100.40997684001923,100.40997684001923,1.0);
+	grid-column-start: 35;
+	grid-column-end: 40;
+	grid-row-start: 35;
+	grid-row-end: 47;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
+.rectangle29421683 {
+    grid-column-start: 15;
+    grid-column-end: 41;
+    grid-row-start: 23;
+    grid-row-end: 54;
+    grid-template-columns:repeat(64,1fr);
+    grid-template-rows:repeat(64,1fr);
+    aspect-ratio: 1;
+    clip-path: polygon(0 0, 0% 100%, 100% 100%,100% 0);
+    height: 454.0px;
+    width: 826.0px;
+  background-color:rgba(217.0000022649765,217.0000022649765,217.0000022649765,1.0);
+	display: grid;
+	  border: 0;}
+.container29421684 {
+	background-color: rgba(125.0480979681015,71.6621482372284,71.6621482372284,1.0);
+	grid-column-start: 20;
+	grid-column-end: 26;
+	grid-row-start: 34;
+	grid-row-end: 47;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+
 .text29431687 {
 	font-style: Regular;
 	font-weight: 400;

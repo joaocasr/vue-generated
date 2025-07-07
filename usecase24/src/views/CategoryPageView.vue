@@ -943,38 +943,38 @@
 </template>
 
 <script>
-import Line3 from '@/components/Line3.vue';
-import Header from '@/components/Header.vue';
-import Topheader from '@/components/Topheader.vue';
-import Iconsarrowup from '@/components/Iconsarrowup.vue';
-import Cart2data from '@/components/Cart2data.vue';
-import Variantservices from '@/components/Variantservices.vue';
-import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Cart3data from '@/components/Cart3data.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Cart1data from '@/components/Cart1data.vue';
-import Fullservices from '@/components/Fullservices.vue';
 import Footer from '@/components/Footer.vue';
+import Cart2data from '@/components/Cart2data.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Line3 from '@/components/Line3.vue';
+import Variantservices from '@/components/Variantservices.vue';
+import Topheader from '@/components/Topheader.vue';
 import Underline from '@/components/Underline.vue';
 import Dropdown from '@/components/Dropdown.vue';
+import Header from '@/components/Header.vue';
+import Fullservices from '@/components/Fullservices.vue';
+import Cart3data from '@/components/Cart3data.vue';
+import Cart1data from '@/components/Cart1data.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Iconsarrowup from '@/components/Iconsarrowup.vue';
+import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
 export default {
     components:{
-        Line3,
-        Header,
-        Topheader,
-        Iconsarrowup,
-        Cart2data,
-        Variantservices,
-        Variantgroup1000005938,
-        Cart3data,
-        Cart4data,
-        Variantcategoryphone,
-        Cart1data,
-        Fullservices,
         Footer,
+        Cart2data,
+        Variantcategoryphone,
+        Line3,
+        Variantservices,
+        Topheader,
         Underline,
-        Dropdown
+        Dropdown,
+        Header,
+        Fullservices,
+        Cart3data,
+        Cart1data,
+        Cart4data,
+        Iconsarrowup,
+        Variantgroup1000005938
     },
     data(){
         return {

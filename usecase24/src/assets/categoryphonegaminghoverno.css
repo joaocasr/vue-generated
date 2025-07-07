@@ -49,3 +49,75 @@
   height: 100%;
 }
   
+.text28792906 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 21;
+	grid-column-end: 46;
+	grid-row-start: 46;
+	grid-row-end: 53;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+
+.container28792907 {
+	grid-column-start: 22;
+	grid-column-end: 44;
+	grid-row-start: 12;
+	grid-row-end: 37;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container28792908 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 1;
+	grid-column-end: 65;
+	grid-row-start: 1;
+	grid-row-end: 64;
+}
+
+.container28792909 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 5;
+	grid-column-end: 62;
+	grid-row-start: 16;
+	grid-row-end: 50;
+}
+
+.container28792910 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 16;
+	grid-column-end: 30;
+	grid-row-start: 27;
+	grid-row-end: 40;
+}
+
+.container28792911 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 39;
+	grid-column-end: 43;
+	grid-row-start: 29;
+	grid-row-end: 32;
+}
+
+.container28792912 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 47;
+	grid-column-end: 51;
+	grid-row-start: 34;
+	grid-row-end: 37;
+}
+

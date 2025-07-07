@@ -7,12 +7,12 @@
 </template>
     
 <script>
-import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
 import Iconsecure from '@/components/Iconsecure.vue';
+import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
 export default {
     components:{
-        Variantgroup1000005938,
-        Iconsecure
+        Iconsecure,
+        Variantgroup1000005938
     },
     data(){
         return {

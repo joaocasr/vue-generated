@@ -114,32 +114,32 @@
 </template>
     
 <script>
-import Qrcode from '@/components/Qrcode.vue';
-import Iconlinkedin from '@/components/Iconlinkedin.vue';
 import Iconcopyright from '@/components/Iconcopyright.vue';
-import Iconinstagram from '@/components/Iconinstagram.vue';
-import Appstore from '@/components/Appstore.vue';
-import Logo from '@/components/Logo.vue';
+import Iconsend from '@/components/Iconsend.vue';
 import Icontwitter from '@/components/Icontwitter.vue';
 import Iconfacebook from '@/components/Iconfacebook.vue';
-import Sendmail from '@/components/Sendmail.vue';
-import Iconsend from '@/components/Iconsend.vue';
 import Googleplay from '@/components/Googleplay.vue';
 import Underline from '@/components/Underline.vue';
+import Qrcode from '@/components/Qrcode.vue';
+import Appstore from '@/components/Appstore.vue';
+import Iconlinkedin from '@/components/Iconlinkedin.vue';
+import Logo from '@/components/Logo.vue';
+import Iconinstagram from '@/components/Iconinstagram.vue';
+import Sendmail from '@/components/Sendmail.vue';
 export default {
     components:{
-        Qrcode,
-        Iconlinkedin,
         Iconcopyright,
-        Iconinstagram,
-        Appstore,
-        Logo,
+        Iconsend,
         Icontwitter,
         Iconfacebook,
-        Sendmail,
-        Iconsend,
         Googleplay,
-        Underline
+        Underline,
+        Qrcode,
+        Appstore,
+        Iconlinkedin,
+        Logo,
+        Iconinstagram,
+        Sendmail
     },
     data(){
         return {

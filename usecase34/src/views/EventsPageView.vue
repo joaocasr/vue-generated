@@ -108,12 +108,12 @@
 </template>
 
 <script>
-import Popup from '@/components/Popup.vue';
 import Variantframe838 from '@/components/Variantframe838.vue';
+import Popup from '@/components/Popup.vue';
 export default {
     components:{
-        Popup,
-        Variantframe838
+        Variantframe838,
+        Popup
     },
     data(){
         return {

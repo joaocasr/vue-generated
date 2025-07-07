@@ -17,12 +17,12 @@
 </template>
 
 <script>
-import Mypopup from '@/components/Mypopup.vue';
 import Iconi from '@/components/Iconi.vue';
+import Mypopup from '@/components/Mypopup.vue';
 export default {
     components:{
-        Mypopup,
-        Iconi
+        Iconi,
+        Mypopup
     },
     data(){
         return {

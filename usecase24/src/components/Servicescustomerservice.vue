@@ -14,14 +14,14 @@
 </template>
     
 <script>
-import Variantservices from '@/components/Variantservices.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
 import Iconheadphone from '@/components/Iconheadphone.vue';
+import Variantservices from '@/components/Variantservices.vue';
 export default {
     components:{
-        Variantservices,
         Variantgroup1000005938,
-        Iconheadphone
+        Iconheadphone,
+        Variantservices
     },
     data(){
         return {

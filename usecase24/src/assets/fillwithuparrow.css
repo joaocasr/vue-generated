@@ -21,3 +21,36 @@
   height: 100%;
 }
   
+.ellipse2879886 {
+    grid-column-start: 1;
+    grid-column-end: 65;
+    grid-row-start: 1;
+    grid-row-end: 64;
+    grid-template-columns:None;
+    grid-template-rows:None;
+    aspect-ratio: 1;
+    clip-path: circle(50% at 50% 50%);
+    height: 46.0px;
+    width: 46.0px;
+  background-color:rgba(245.00000059604645,245.00000059604645,245.00000059604645,1.0);
+	display: grid;
+	  border: 0;}
+.container2879887 {
+	grid-column-start: 1;
+	grid-column-end: 64;
+	grid-row-start: 16;
+	grid-row-end: 49;
+	display: grid;
+	grid-template-columns: repeat(64,1fr);
+	grid-template-rows: repeat(64,1fr);
+	padding: 0;
+}
+
+.container2879888 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 12;
+	grid-column-end: 56;
+	grid-row-start: 9;
+	grid-row-end: 57;
+}
+
