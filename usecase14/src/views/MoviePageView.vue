@@ -78,22 +78,22 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
 import Navbar from '@/components/Navbar.vue';
 import Related2 from '@/components/Related2.vue';
-import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
-import Review from '@/components/Review.vue';
-import Related1 from '@/components/Related1.vue';
 import Related3 from '@/components/Related3.vue';
+import Review from '@/components/Review.vue';
+import Footer from '@/components/Footer.vue';
+import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
+import Related1 from '@/components/Related1.vue';
 export default {
     components:{
-        Footer,
         Navbar,
         Related2,
-        Confirmationwatchlistmodal,
+        Related3,
         Review,
-        Related1,
-        Related3
+        Footer,
+        Confirmationwatchlistmodal,
+        Related1
     },
     data(){
         return {

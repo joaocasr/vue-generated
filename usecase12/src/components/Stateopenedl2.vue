@@ -11,32 +11,32 @@
 </template>
     
 <script>
-import Iconsregularchevrondowns from '@/components/Iconsregularchevrondowns.vue';
-import Variantheader from '@/components/Variantheader.vue';
-import Label1 from '@/components/Label1.vue';
 import Variantitemhover from '@/components/Variantitemhover.vue';
-import Label4 from '@/components/Label4.vue';
-import Iconsregularchevronups from '@/components/Iconsregularchevronups.vue';
 import Iconsregularplus from '@/components/Iconsregularplus.vue';
 import Label3 from '@/components/Label3.vue';
-import Label2 from '@/components/Label2.vue';
+import Iconsregularchevrondowns from '@/components/Iconsregularchevrondowns.vue';
 import Label5 from '@/components/Label5.vue';
+import Iconsregularchevronups from '@/components/Iconsregularchevronups.vue';
 import Menulabel from '@/components/Menulabel.vue';
+import Variantheader from '@/components/Variantheader.vue';
+import Label4 from '@/components/Label4.vue';
+import Label1 from '@/components/Label1.vue';
 import Itemslist from '@/components/Itemslist.vue';
+import Label2 from '@/components/Label2.vue';
 export default {
     components:{
-        Iconsregularchevrondowns,
-        Variantheader,
-        Label1,
         Variantitemhover,
-        Label4,
-        Iconsregularchevronups,
         Iconsregularplus,
         Label3,
-        Label2,
+        Iconsregularchevrondowns,
         Label5,
+        Iconsregularchevronups,
         Menulabel,
-        Itemslist
+        Variantheader,
+        Label4,
+        Label1,
+        Itemslist,
+        Label2
     },
     data(){
         return {

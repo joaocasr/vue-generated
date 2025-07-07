@@ -7,12 +7,12 @@
 </template>
     
 <script>
-import Frame1 from '@/components/Frame1.vue';
 import Frame227126 from '@/components/Frame227126.vue';
+import Frame1 from '@/components/Frame1.vue';
 export default {
     components:{
-        Frame1,
-        Frame227126
+        Frame227126,
+        Frame1
     },
     data(){
         return {

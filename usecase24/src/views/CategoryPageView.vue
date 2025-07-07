@@ -943,38 +943,38 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
-import Cart2data from '@/components/Cart2data.vue';
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Line3 from '@/components/Line3.vue';
-import Variantservices from '@/components/Variantservices.vue';
-import Topheader from '@/components/Topheader.vue';
-import Underline from '@/components/Underline.vue';
-import Dropdown from '@/components/Dropdown.vue';
-import Header from '@/components/Header.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Cart3data from '@/components/Cart3data.vue';
-import Cart1data from '@/components/Cart1data.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Iconsarrowup from '@/components/Iconsarrowup.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Header from '@/components/Header.vue';
+import Line3 from '@/components/Line3.vue';
+import Fullservices from '@/components/Fullservices.vue';
+import Iconsarrowup from '@/components/Iconsarrowup.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Underline from '@/components/Underline.vue';
+import Topheader from '@/components/Topheader.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Footer from '@/components/Footer.vue';
+import Variantservices from '@/components/Variantservices.vue';
+import Cart1data from '@/components/Cart1data.vue';
+import Dropdown from '@/components/Dropdown.vue';
+import Cart3data from '@/components/Cart3data.vue';
+import Cart2data from '@/components/Cart2data.vue';
 export default {
     components:{
-        Footer,
-        Cart2data,
-        Variantcategoryphone,
-        Line3,
-        Variantservices,
-        Topheader,
-        Underline,
-        Dropdown,
+        Variantgroup1000005938,
         Header,
+        Line3,
         Fullservices,
-        Cart3data,
-        Cart1data,
-        Cart4data,
         Iconsarrowup,
-        Variantgroup1000005938
+        Cart4data,
+        Underline,
+        Topheader,
+        Variantcategoryphone,
+        Footer,
+        Variantservices,
+        Cart1data,
+        Dropdown,
+        Cart3data,
+        Cart2data
     },
     data(){
         return {

@@ -9,26 +9,26 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
-import Variantcart1withbuy from '@/components/Variantcart1withbuy.vue';
-import Variantheader from '@/components/Variantheader.vue';
-import Variantwishlist from '@/components/Variantwishlist.vue';
-import Line3 from '@/components/Line3.vue';
-import Topheader from '@/components/Topheader.vue';
-import Variantsearchcomponentset from '@/components/Variantsearchcomponentset.vue';
-import Variantuser from '@/components/Variantuser.vue';
 import Header from '@/components/Header.vue';
+import Line3 from '@/components/Line3.vue';
+import Variantsearchcomponentset from '@/components/Variantsearchcomponentset.vue';
+import Topheader from '@/components/Topheader.vue';
+import Variantwishlist from '@/components/Variantwishlist.vue';
+import Variantheader from '@/components/Variantheader.vue';
+import Footer from '@/components/Footer.vue';
+import Variantuser from '@/components/Variantuser.vue';
+import Variantcart1withbuy from '@/components/Variantcart1withbuy.vue';
 export default {
     components:{
-        Footer,
-        Variantcart1withbuy,
-        Variantheader,
-        Variantwishlist,
+        Header,
         Line3,
-        Topheader,
         Variantsearchcomponentset,
+        Topheader,
+        Variantwishlist,
+        Variantheader,
+        Footer,
         Variantuser,
-        Header
+        Variantcart1withbuy
     },
     data(){
         return {

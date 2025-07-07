@@ -15,13 +15,13 @@
     
 <script>
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Iconsecure from '@/components/Iconsecure.vue';
 import Variantservices from '@/components/Variantservices.vue';
+import Iconsecure from '@/components/Iconsecure.vue';
 export default {
     components:{
         Variantgroup1000005938,
-        Iconsecure,
-        Variantservices
+        Variantservices,
+        Iconsecure
     },
     data(){
         return {

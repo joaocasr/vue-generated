@@ -51,8 +51,8 @@
 <script>
 import Footer from '@/components/Footer.vue';
 import Navbar from '@/components/Navbar.vue';
-import { useToastStore } from "@/stores/toast";;
 import { ref } from 'vue';
+import { useToastStore } from "@/stores/toast";;
 export default {
     components:{
         Footer,

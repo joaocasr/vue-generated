@@ -7,8 +7,8 @@
 
 <script>
 import Container from '@/components/Container.vue';
-import { useToastStore } from "@/stores/toast";;
 import { ref } from 'vue';
+import { useToastStore } from "@/stores/toast";;
 export default {
     components:{
         Container

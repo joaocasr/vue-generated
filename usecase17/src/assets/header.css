@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
 
 .component2734738 {
   display:grid;
@@ -22,9 +30,7 @@
   width: 100%;
   height: 100%;
 }
-  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-
+  
 .component2734737 {
   display:grid;
   grid-template-columns:repeat(64,1fr);
@@ -46,9 +52,7 @@
   width: 100%;
   height: 100%;
 }
-  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-
+  
 .component2734736 {
   display:grid;
   grid-template-columns:repeat(64,1fr);
@@ -70,9 +74,7 @@
   width: 100%;
   height: 100%;
 }
-  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-
+  
 .component2734735 {
   display:grid;
   grid-template-columns:repeat(64,1fr);
@@ -94,9 +96,7 @@
   width: 100%;
   height: 100%;
 }
-  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
-
+  
 .component2735235 {
   display:grid;
   grid-template-columns:repeat(64,1fr);
@@ -427,5 +427,89 @@
 	grid-column-end: 45;
 	grid-row-start: 9;
 	grid-row-end: 30;
+}
+
+
+.text1491602 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 3;
+	grid-column-end: 65;
+	grid-row-start: 19;
+	grid-row-end: 49;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
+}
+
+
+.text1491750 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 2;
+	grid-column-end: 65;
+	grid-row-start: 19;
+	grid-row-end: 50;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
+}
+
+
+.text1491754 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 2;
+	grid-column-end: 65;
+	grid-row-start: 17;
+	grid-row-end: 49;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
+}
+
+
+.text1491758 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	line-height: 24px;
+	color: rgba(0.0,0.0,0.0,1.0);
+	grid-column-start: 2;
+	grid-column-end: 65;
+	grid-row-start: 17;
+	grid-row-end: 61;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: center;
+	justify-content: stretch;
 }
 
