@@ -943,38 +943,38 @@
 </template>
 
 <script>
-import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Underline from '@/components/Underline.vue';
-import Variantservices from '@/components/Variantservices.vue';
-import Topheader from '@/components/Topheader.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Cart2data from '@/components/Cart2data.vue';
-import Footer from '@/components/Footer.vue';
 import Header from '@/components/Header.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Iconsarrowup from '@/components/Iconsarrowup.vue';
-import Cart3data from '@/components/Cart3data.vue';
+import Variantservices from '@/components/Variantservices.vue';
 import Line3 from '@/components/Line3.vue';
-import Dropdown from '@/components/Dropdown.vue';
+import Topheader from '@/components/Topheader.vue';
+import Underline from '@/components/Underline.vue';
+import Fullservices from '@/components/Fullservices.vue';
+import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Cart3data from '@/components/Cart3data.vue';
+import Footer from '@/components/Footer.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Cart2data from '@/components/Cart2data.vue';
 import Cart1data from '@/components/Cart1data.vue';
+import Iconsarrowup from '@/components/Iconsarrowup.vue';
+import Dropdown from '@/components/Dropdown.vue';
 export default {
     components:{
-        Variantgroup1000005938,
-        Variantcategoryphone,
-        Underline,
-        Variantservices,
-        Topheader,
-        Fullservices,
-        Cart2data,
-        Footer,
         Header,
-        Cart4data,
-        Iconsarrowup,
-        Cart3data,
+        Variantservices,
         Line3,
-        Dropdown,
-        Cart1data
+        Topheader,
+        Underline,
+        Fullservices,
+        Variantgroup1000005938,
+        Cart4data,
+        Cart3data,
+        Footer,
+        Variantcategoryphone,
+        Cart2data,
+        Cart1data,
+        Iconsarrowup,
+        Dropdown
     },
     data(){
         return {

@@ -8,24 +8,24 @@
 </template>
     
 <script>
-import Servicesfastdelivery from '@/components/Servicesfastdelivery.vue';
-import Icondelivery from '@/components/Icondelivery.vue';
-import Servicesmoneyback from '@/components/Servicesmoneyback.vue';
 import Variantservices from '@/components/Variantservices.vue';
-import Servicescustomerservice from '@/components/Servicescustomerservice.vue';
-import Iconsecure from '@/components/Iconsecure.vue';
+import Icondelivery from '@/components/Icondelivery.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
 import Iconheadphone from '@/components/Iconheadphone.vue';
+import Servicescustomerservice from '@/components/Servicescustomerservice.vue';
+import Servicesfastdelivery from '@/components/Servicesfastdelivery.vue';
+import Iconsecure from '@/components/Iconsecure.vue';
+import Servicesmoneyback from '@/components/Servicesmoneyback.vue';
 export default {
     components:{
-        Servicesfastdelivery,
-        Icondelivery,
-        Servicesmoneyback,
         Variantservices,
-        Servicescustomerservice,
-        Iconsecure,
+        Icondelivery,
         Variantgroup1000005938,
-        Iconheadphone
+        Iconheadphone,
+        Servicescustomerservice,
+        Servicesfastdelivery,
+        Iconsecure,
+        Servicesmoneyback
     },
     data(){
         return {

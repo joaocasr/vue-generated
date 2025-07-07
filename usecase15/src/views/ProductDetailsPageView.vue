@@ -410,16 +410,16 @@
 </template>
 
 <script>
-import Line4 from '@/components/Line4.vue';
-import Footer from '@/components/Footer.vue';
 import Header from '@/components/Header.vue';
 import Topheader from '@/components/Topheader.vue';
+import Footer from '@/components/Footer.vue';
+import Line4 from '@/components/Line4.vue';
 export default {
     components:{
-        Line4,
-        Footer,
         Header,
-        Topheader
+        Topheader,
+        Footer,
+        Line4
     },
     data(){
         return {

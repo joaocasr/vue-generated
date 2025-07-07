@@ -49,14 +49,14 @@
 </template>
 
 <script>
-import Navbar from '@/components/Navbar.vue';
 import Footer from '@/components/Footer.vue';
-import { useToastStore } from "@/stores/toast";;
+import Navbar from '@/components/Navbar.vue';
 import { ref } from 'vue';
+import { useToastStore } from "@/stores/toast";;
 export default {
     components:{
-        Navbar,
-        Footer
+        Footer,
+        Navbar
     },
     data(){
         return {

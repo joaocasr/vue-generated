@@ -58,18 +58,18 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue';
+import Topheader from '@/components/Topheader.vue';
 import Line3 from '@/components/Line3.vue';
 import Footer from '@/components/Footer.vue';
-import Topheader from '@/components/Topheader.vue';
-import { useToastStore } from "@/stores/toast";;
+import Header from '@/components/Header.vue';
 import { ref } from 'vue';
+import { useToastStore } from "@/stores/toast";;
 export default {
     components:{
-        Header,
+        Topheader,
         Line3,
         Footer,
-        Topheader
+        Header
     },
     data(){
         return {

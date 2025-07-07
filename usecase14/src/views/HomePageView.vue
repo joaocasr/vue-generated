@@ -64,30 +64,30 @@
 </template>
 
 <script>
-import Movie1 from '@/components/Movie1.vue';
-import Homebanner from '@/components/Homebanner.vue';
-import Movie8 from '@/components/Movie8.vue';
-import Movie3 from '@/components/Movie3.vue';
-import Navbar from '@/components/Navbar.vue';
-import Movie4 from '@/components/Movie4.vue';
+import Movie5 from '@/components/Movie5.vue';
+import Movie7 from '@/components/Movie7.vue';
 import Movie2 from '@/components/Movie2.vue';
+import Movie4 from '@/components/Movie4.vue';
+import Navbar from '@/components/Navbar.vue';
+import Homebanner from '@/components/Homebanner.vue';
+import Movie3 from '@/components/Movie3.vue';
 import Footer from '@/components/Footer.vue';
 import Movie6 from '@/components/Movie6.vue';
-import Movie7 from '@/components/Movie7.vue';
-import Movie5 from '@/components/Movie5.vue';
+import Movie8 from '@/components/Movie8.vue';
+import Movie1 from '@/components/Movie1.vue';
 export default {
     components:{
-        Movie1,
-        Homebanner,
-        Movie8,
-        Movie3,
-        Navbar,
-        Movie4,
+        Movie5,
+        Movie7,
         Movie2,
+        Movie4,
+        Navbar,
+        Homebanner,
+        Movie3,
         Footer,
         Movie6,
-        Movie7,
-        Movie5
+        Movie8,
+        Movie1
     },
     data(){
         return {
