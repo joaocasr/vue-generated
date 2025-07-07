@@ -934,30 +934,30 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue';
-import Variantservices from '@/components/Variantservices.vue';
-import Line3 from '@/components/Line3.vue';
-import Topheader from '@/components/Topheader.vue';
-import Underline from '@/components/Underline.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Footer from '@/components/Footer.vue';
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 import Iconsarrowup from '@/components/Iconsarrowup.vue';
+import Footer from '@/components/Footer.vue';
+import Line3 from '@/components/Line3.vue';
+import Header from '@/components/Header.vue';
+import Fullservices from '@/components/Fullservices.vue';
 import Dropdown from '@/components/Dropdown.vue';
+import Underline from '@/components/Underline.vue';
+import Variantservices from '@/components/Variantservices.vue';
+import Topheader from '@/components/Topheader.vue';
+import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 export default {
     components:{
-        Header,
-        Variantservices,
-        Line3,
-        Topheader,
-        Underline,
-        Fullservices,
-        Variantgroup1000005938,
-        Footer,
-        Variantcategoryphone,
         Iconsarrowup,
-        Dropdown
+        Footer,
+        Line3,
+        Header,
+        Fullservices,
+        Dropdown,
+        Underline,
+        Variantservices,
+        Topheader,
+        Variantgroup1000005938,
+        Variantcategoryphone
     },
     data(){
         return {

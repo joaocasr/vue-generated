@@ -14,13 +14,13 @@
 </template>
     
 <script>
-import Variantservices from '@/components/Variantservices.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Variantservices from '@/components/Variantservices.vue';
 import Iconsecure from '@/components/Iconsecure.vue';
 export default {
     components:{
-        Variantservices,
         Variantgroup1000005938,
+        Variantservices,
         Iconsecure
     },
     data(){

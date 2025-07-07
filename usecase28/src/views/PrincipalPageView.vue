@@ -52,12 +52,12 @@
 </template>
 
 <script>
-import Popup from '@/components/Popup.vue';
 import Frame828 from '@/components/Frame828.vue';
+import Popup from '@/components/Popup.vue';
 export default {
     components:{
-        Popup,
-        Frame828
+        Frame828,
+        Popup
     },
     data(){
         return {
