@@ -127,14 +127,14 @@
 </template>
 
 <script>
-import Frame846 from '@/components/Frame846.vue';
 import Variantframe838 from '@/components/Variantframe838.vue';
 import Popup from '@/components/Popup.vue';
+import Frame846 from '@/components/Frame846.vue';
 export default {
     components:{
-        Frame846,
         Variantframe838,
-        Popup
+        Popup,
+        Frame846
     },
     data(){
         return {

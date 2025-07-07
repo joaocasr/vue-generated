@@ -10,13 +10,13 @@
 
 <script>
 import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Variantframe726 from '@/components/Variantframe726.vue';
 import Variantframe725 from '@/components/Variantframe725.vue';
+import Variantframe726 from '@/components/Variantframe726.vue';
 export default {
     components:{
         Variantcategoryphone,
-        Variantframe726,
-        Variantframe725
+        Variantframe725,
+        Variantframe726
     },
     data(){
         return {

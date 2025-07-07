@@ -275,21 +275,21 @@
 
 <script>
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Variantservices from '@/components/Variantservices.vue';
+import Topheader from '@/components/Topheader.vue';
+import Fullservices from '@/components/Fullservices.vue';
+import Footer from '@/components/Footer.vue';
 import Header from '@/components/Header.vue';
 import Line3 from '@/components/Line3.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Topheader from '@/components/Topheader.vue';
-import Variantservices from '@/components/Variantservices.vue';
-import Footer from '@/components/Footer.vue';
 export default {
     components:{
         Variantgroup1000005938,
-        Header,
-        Line3,
-        Fullservices,
-        Topheader,
         Variantservices,
-        Footer
+        Topheader,
+        Fullservices,
+        Footer,
+        Header,
+        Line3
     },
     data(){
         return {

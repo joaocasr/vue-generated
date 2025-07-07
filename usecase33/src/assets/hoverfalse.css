@@ -67,24 +67,3 @@
 	justify-content: stretch;
 }
 
-
-.text31862911 {
-	font-style: Regular;
-	font-weight: 400;
-	font-size: 1.25vw;
-	font-family: 'Inter', sans-serif;
-	text-align: left;
-	line-height: 40px;
-	color: rgba(255.0,255.0,255.0,1.0);
-	grid-column-start: 14;
-	grid-column-end: 53;
-	grid-row-start: 25;
-	grid-row-end: 41;
-	display: flex;
-	overflow-wrap: break-word;
-	white-space: normal;
-	width: 100%;
-	align-items: stretch;
-	justify-content: stretch;
-}
-

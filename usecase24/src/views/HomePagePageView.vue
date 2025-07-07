@@ -918,46 +918,46 @@
 </template>
 
 <script>
-import Header from '@/components/Header.vue';
-import Topheader from '@/components/Topheader.vue';
-import Cart1data from '@/components/Cart1data.vue';
-import Iconsarrowright from '@/components/Iconsarrowright.vue';
-import Line3 from '@/components/Line3.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Underline from '@/components/Underline.vue';
-import Cart2data from '@/components/Cart2data.vue';
-import Fillwithrightarrow from '@/components/Fillwithrightarrow.vue';
-import Footer from '@/components/Footer.vue';
-import Cart6data from '@/components/Cart6data.vue';
-import Fillwithleftarrow from '@/components/Fillwithleftarrow.vue';
-import Variantflashselltimer from '@/components/Variantflashselltimer.vue';
-import Cart5data from '@/components/Cart5data.vue';
-import Rectangle18 from '@/components/Rectangle18.vue';
 import Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data from '@/components/Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data.vue';
 import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Underline from '@/components/Underline.vue';
+import Cart2data from '@/components/Cart2data.vue';
+import Cart5data from '@/components/Cart5data.vue';
+import Fillwithleftarrow from '@/components/Fillwithleftarrow.vue';
+import Iconsarrowright from '@/components/Iconsarrowright.vue';
+import Rectangle18 from '@/components/Rectangle18.vue';
+import Header from '@/components/Header.vue';
+import Fillwithrightarrow from '@/components/Fillwithrightarrow.vue';
+import Cart6data from '@/components/Cart6data.vue';
+import Footer from '@/components/Footer.vue';
+import Cart4data from '@/components/Cart4data.vue';
 import Cart3data from '@/components/Cart3data.vue';
 import Cart7data from '@/components/Cart7data.vue';
+import Topheader from '@/components/Topheader.vue';
+import Line3 from '@/components/Line3.vue';
+import Variantflashselltimer from '@/components/Variantflashselltimer.vue';
+import Cart1data from '@/components/Cart1data.vue';
 export default {
     components:{
-        Header,
-        Topheader,
-        Cart1data,
-        Iconsarrowright,
-        Line3,
-        Cart4data,
-        Underline,
-        Cart2data,
-        Fillwithrightarrow,
-        Footer,
-        Cart6data,
-        Fillwithleftarrow,
-        Variantflashselltimer,
-        Cart5data,
-        Rectangle18,
         Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data,
         Variantcategoryphone,
+        Underline,
+        Cart2data,
+        Cart5data,
+        Fillwithleftarrow,
+        Iconsarrowright,
+        Rectangle18,
+        Header,
+        Fillwithrightarrow,
+        Cart6data,
+        Footer,
+        Cart4data,
         Cart3data,
-        Cart7data
+        Cart7data,
+        Topheader,
+        Line3,
+        Variantflashselltimer,
+        Cart1data
     },
     data(){
         return {

@@ -21,12 +21,12 @@
 </template>
 
 <script>
-import Iconi from '@/components/Iconi.vue';
 import Popup from '@/components/Popup.vue';
+import Iconi from '@/components/Iconi.vue';
 export default {
     components:{
-        Iconi,
-        Popup
+        Popup,
+        Iconi
     },
     data(){
         return {

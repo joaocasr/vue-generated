@@ -944,37 +944,37 @@
 
 <script>
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Header from '@/components/Header.vue';
-import Line3 from '@/components/Line3.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Iconsarrowup from '@/components/Iconsarrowup.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Underline from '@/components/Underline.vue';
-import Topheader from '@/components/Topheader.vue';
 import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Footer from '@/components/Footer.vue';
+import Underline from '@/components/Underline.vue';
 import Variantservices from '@/components/Variantservices.vue';
-import Cart1data from '@/components/Cart1data.vue';
-import Dropdown from '@/components/Dropdown.vue';
-import Cart3data from '@/components/Cart3data.vue';
+import Topheader from '@/components/Topheader.vue';
+import Fullservices from '@/components/Fullservices.vue';
 import Cart2data from '@/components/Cart2data.vue';
+import Footer from '@/components/Footer.vue';
+import Header from '@/components/Header.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Iconsarrowup from '@/components/Iconsarrowup.vue';
+import Cart3data from '@/components/Cart3data.vue';
+import Line3 from '@/components/Line3.vue';
+import Dropdown from '@/components/Dropdown.vue';
+import Cart1data from '@/components/Cart1data.vue';
 export default {
     components:{
         Variantgroup1000005938,
-        Header,
-        Line3,
-        Fullservices,
-        Iconsarrowup,
-        Cart4data,
-        Underline,
-        Topheader,
         Variantcategoryphone,
-        Footer,
+        Underline,
         Variantservices,
-        Cart1data,
-        Dropdown,
+        Topheader,
+        Fullservices,
+        Cart2data,
+        Footer,
+        Header,
+        Cart4data,
+        Iconsarrowup,
         Cart3data,
-        Cart2data
+        Line3,
+        Dropdown,
+        Cart1data
     },
     data(){
         return {
