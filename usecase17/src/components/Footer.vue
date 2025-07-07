@@ -114,32 +114,32 @@
 </template>
     
 <script>
-import Iconsend from '@/components/Iconsend.vue';
-import Iconcopyright from '@/components/Iconcopyright.vue';
-import Sendmail from '@/components/Sendmail.vue';
+import Iconlinkedin from '@/components/Iconlinkedin.vue';
+import Iconfacebook from '@/components/Iconfacebook.vue';
+import Logo from '@/components/Logo.vue';
+import Appstore from '@/components/Appstore.vue';
 import Qrcode from '@/components/Qrcode.vue';
 import Underline from '@/components/Underline.vue';
-import Iconinstagram from '@/components/Iconinstagram.vue';
-import Appstore from '@/components/Appstore.vue';
 import Icontwitter from '@/components/Icontwitter.vue';
-import Iconfacebook from '@/components/Iconfacebook.vue';
-import Iconlinkedin from '@/components/Iconlinkedin.vue';
+import Iconinstagram from '@/components/Iconinstagram.vue';
 import Googleplay from '@/components/Googleplay.vue';
-import Logo from '@/components/Logo.vue';
+import Sendmail from '@/components/Sendmail.vue';
+import Iconsend from '@/components/Iconsend.vue';
+import Iconcopyright from '@/components/Iconcopyright.vue';
 export default {
     components:{
-        Iconsend,
-        Iconcopyright,
-        Sendmail,
+        Iconlinkedin,
+        Iconfacebook,
+        Logo,
+        Appstore,
         Qrcode,
         Underline,
-        Iconinstagram,
-        Appstore,
         Icontwitter,
-        Iconfacebook,
-        Iconlinkedin,
+        Iconinstagram,
         Googleplay,
-        Logo
+        Sendmail,
+        Iconsend,
+        Iconcopyright
     },
     data(){
         return {

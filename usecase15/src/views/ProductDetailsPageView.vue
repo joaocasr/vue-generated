@@ -411,15 +411,15 @@
 
 <script>
 import Topheader from '@/components/Topheader.vue';
-import Line4 from '@/components/Line4.vue';
-import Footer from '@/components/Footer.vue';
 import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
+import Line4 from '@/components/Line4.vue';
 export default {
     components:{
         Topheader,
-        Line4,
+        Header,
         Footer,
-        Header
+        Line4
     },
     data(){
         return {

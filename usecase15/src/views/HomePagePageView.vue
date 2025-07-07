@@ -918,46 +918,46 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
-import Cart4data from '@/components/Cart4data.vue';
-import Line3 from '@/components/Line3.vue';
-import Underline from '@/components/Underline.vue';
-import Cart6data from '@/components/Cart6data.vue';
 import Topheader from '@/components/Topheader.vue';
-import Rectangle18 from '@/components/Rectangle18.vue';
 import Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data from '@/components/Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data.vue';
-import Cart7data from '@/components/Cart7data.vue';
-import Cart1data from '@/components/Cart1data.vue';
 import Cart3data from '@/components/Cart3data.vue';
+import Cart7data from '@/components/Cart7data.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Rectangle18 from '@/components/Rectangle18.vue';
+import Iconsarrowright from '@/components/Iconsarrowright.vue';
 import Fillwithleftarrow from '@/components/Fillwithleftarrow.vue';
-import Cart5data from '@/components/Cart5data.vue';
+import Variantflashselltimer from '@/components/Variantflashselltimer.vue';
+import Fillwithrightarrow from '@/components/Fillwithrightarrow.vue';
+import Underline from '@/components/Underline.vue';
+import Line3 from '@/components/Line3.vue';
 import Cart2data from '@/components/Cart2data.vue';
 import Header from '@/components/Header.vue';
-import Iconsarrowright from '@/components/Iconsarrowright.vue';
-import Variantflashselltimer from '@/components/Variantflashselltimer.vue';
+import Cart5data from '@/components/Cart5data.vue';
+import Cart6data from '@/components/Cart6data.vue';
+import Cart1data from '@/components/Cart1data.vue';
 import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
-import Fillwithrightarrow from '@/components/Fillwithrightarrow.vue';
+import Footer from '@/components/Footer.vue';
 export default {
     components:{
-        Footer,
-        Cart4data,
-        Line3,
-        Underline,
-        Cart6data,
         Topheader,
-        Rectangle18,
         Cartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartwithflatdiscountcartproperty25data,
-        Cart7data,
-        Cart1data,
         Cart3data,
+        Cart7data,
+        Cart4data,
+        Rectangle18,
+        Iconsarrowright,
         Fillwithleftarrow,
-        Cart5data,
+        Variantflashselltimer,
+        Fillwithrightarrow,
+        Underline,
+        Line3,
         Cart2data,
         Header,
-        Iconsarrowright,
-        Variantflashselltimer,
+        Cart5data,
+        Cart6data,
+        Cart1data,
         Variantcategoryphone,
-        Fillwithrightarrow
+        Footer
     },
     data(){
         return {

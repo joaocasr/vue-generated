@@ -193,16 +193,16 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
 import Topheader from '@/components/Topheader.vue';
 import Line3 from '@/components/Line3.vue';
 import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
 export default {
     components:{
-        Footer,
         Topheader,
         Line3,
-        Header
+        Header,
+        Footer
     },
     data(){
         return {

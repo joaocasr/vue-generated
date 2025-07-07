@@ -8,12 +8,12 @@
 </template>
 
 <script>
-import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 import Variantframe725 from '@/components/Variantframe725.vue';
+import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
 export default {
     components:{
-        Variantcategoryphone,
-        Variantframe725
+        Variantframe725,
+        Variantcategoryphone
     },
     data(){
         return {

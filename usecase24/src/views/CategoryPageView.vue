@@ -943,38 +943,38 @@
 </template>
 
 <script>
-import Cart2data from '@/components/Cart2data.vue';
-import Iconsarrowup from '@/components/Iconsarrowup.vue';
-import Footer from '@/components/Footer.vue';
-import Line3 from '@/components/Line3.vue';
-import Header from '@/components/Header.vue';
-import Fullservices from '@/components/Fullservices.vue';
 import Dropdown from '@/components/Dropdown.vue';
-import Underline from '@/components/Underline.vue';
-import Cart3data from '@/components/Cart3data.vue';
-import Cart4data from '@/components/Cart4data.vue';
 import Variantservices from '@/components/Variantservices.vue';
 import Topheader from '@/components/Topheader.vue';
-import Cart1data from '@/components/Cart1data.vue';
+import Iconsarrowup from '@/components/Iconsarrowup.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
+import Cart4data from '@/components/Cart4data.vue';
+import Cart3data from '@/components/Cart3data.vue';
+import Cart1data from '@/components/Cart1data.vue';
+import Underline from '@/components/Underline.vue';
+import Line3 from '@/components/Line3.vue';
 import Variantcategoryphone from '@/components/Variantcategoryphone.vue';
+import Cart2data from '@/components/Cart2data.vue';
+import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
+import Fullservices from '@/components/Fullservices.vue';
 export default {
     components:{
-        Cart2data,
-        Iconsarrowup,
-        Footer,
-        Line3,
-        Header,
-        Fullservices,
         Dropdown,
-        Underline,
-        Cart3data,
-        Cart4data,
         Variantservices,
         Topheader,
-        Cart1data,
+        Iconsarrowup,
         Variantgroup1000005938,
-        Variantcategoryphone
+        Cart4data,
+        Cart3data,
+        Cart1data,
+        Underline,
+        Line3,
+        Variantcategoryphone,
+        Cart2data,
+        Header,
+        Footer,
+        Fullservices
     },
     data(){
         return {

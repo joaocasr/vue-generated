@@ -253,18 +253,18 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
 import Topheader from '@/components/Topheader.vue';
 import Line3 from '@/components/Line3.vue';
 import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
 import { ref } from 'vue';
 import { useToastStore } from "@/stores/toast";;
 export default {
     components:{
-        Footer,
         Topheader,
         Line3,
-        Header
+        Header,
+        Footer
     },
     data(){
         return {
@@ -334,11 +334,11 @@ export default {
 onFormSubmit28792312(data) {
         const toastStore = useToastStore();
         let message = ""
-        if(data.valid==true){
+        if(data.valid){
             message = "The form was successfully submited!"            
             toastStore.showSuccess(message);
         }
-        if(data.valid==false){
+        if(!data.valid){
             message = "Error in form submission!"            
             toastStore.showError(message);
         }

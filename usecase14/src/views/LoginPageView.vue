@@ -99,11 +99,11 @@ export default {
 onFormSubmit27703038(data) {
         const toastStore = useToastStore();
         let message = ""
-        if(data.valid==true){
+        if(data.valid){
             message = "The form was successfully submited!"            
             toastStore.showSuccess(message);
         }
-        if(data.valid==false){
+        if(!data.valid){
             message = "Error in form submission!"            
             toastStore.showError(message);
         }

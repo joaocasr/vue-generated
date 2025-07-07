@@ -274,22 +274,22 @@
 </template>
 
 <script>
-import Footer from '@/components/Footer.vue';
-import Line3 from '@/components/Line3.vue';
-import Fullservices from '@/components/Fullservices.vue';
-import Header from '@/components/Header.vue';
+import Variantservices from '@/components/Variantservices.vue';
 import Topheader from '@/components/Topheader.vue';
 import Variantgroup1000005938 from '@/components/Variantgroup1000005938.vue';
-import Variantservices from '@/components/Variantservices.vue';
+import Line3 from '@/components/Line3.vue';
+import Header from '@/components/Header.vue';
+import Footer from '@/components/Footer.vue';
+import Fullservices from '@/components/Fullservices.vue';
 export default {
     components:{
-        Footer,
-        Line3,
-        Fullservices,
-        Header,
+        Variantservices,
         Topheader,
         Variantgroup1000005938,
-        Variantservices
+        Line3,
+        Header,
+        Footer,
+        Fullservices
     },
     data(){
         return {
