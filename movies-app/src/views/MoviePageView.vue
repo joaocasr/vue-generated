@@ -79,30 +79,30 @@
 </template>
 
 <script>
-import Related1 from '@/components/Related1.vue';
-import Related3 from '@/components/Related3.vue';
 import Varianthome from '@/components/Varianthome.vue';
-import Navbar from '@/components/Navbar.vue';
-import Insertstatusmodal from '@/components/Insertstatusmodal.vue';
-import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
+import Related3 from '@/components/Related3.vue';
+import Variantseries from '@/components/Variantseries.vue';
 import Variantmovies from '@/components/Variantmovies.vue';
+import Related2 from '@/components/Related2.vue';
+import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
+import Insertstatusmodal from '@/components/Insertstatusmodal.vue';
+import Navbar from '@/components/Navbar.vue';
 import Review from '@/components/Review.vue';
 import Footer from '@/components/Footer.vue';
-import Related2 from '@/components/Related2.vue';
-import Variantseries from '@/components/Variantseries.vue';
+import Related1 from '@/components/Related1.vue';
 export default {
     components:{
-        Related1,
-        Related3,
         Varianthome,
-        Navbar,
-        Insertstatusmodal,
-        Confirmationwatchlistmodal,
+        Related3,
+        Variantseries,
         Variantmovies,
+        Related2,
+        Confirmationwatchlistmodal,
+        Insertstatusmodal,
+        Navbar,
         Review,
         Footer,
-        Related2,
-        Variantseries
+        Related1
     },
     data(){
         return {

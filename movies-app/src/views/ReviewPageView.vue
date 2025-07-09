@@ -33,17 +33,17 @@
 
 <script>
 import Varianthome from '@/components/Varianthome.vue';
-import Navbar from '@/components/Navbar.vue';
-import Variantmovies from '@/components/Variantmovies.vue';
-import Footer from '@/components/Footer.vue';
 import Variantseries from '@/components/Variantseries.vue';
+import Variantmovies from '@/components/Variantmovies.vue';
+import Navbar from '@/components/Navbar.vue';
+import Footer from '@/components/Footer.vue';
 export default {
     components:{
         Varianthome,
-        Navbar,
+        Variantseries,
         Variantmovies,
-        Footer,
-        Variantseries
+        Navbar,
+        Footer
     },
     data(){
         return {

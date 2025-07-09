@@ -52,19 +52,19 @@
 
 <script>
 import Varianthome from '@/components/Varianthome.vue';
+import Variantseries from '@/components/Variantseries.vue';
+import Variantmovies from '@/components/Variantmovies.vue';
 import Navbar from '@/components/Navbar.vue';
 import Deletionwatchlistmodal from '@/components/Deletionwatchlistmodal.vue';
-import Variantmovies from '@/components/Variantmovies.vue';
 import Footer from '@/components/Footer.vue';
-import Variantseries from '@/components/Variantseries.vue';
 export default {
     components:{
         Varianthome,
+        Variantseries,
+        Variantmovies,
         Navbar,
         Deletionwatchlistmodal,
-        Variantmovies,
-        Footer,
-        Variantseries
+        Footer
     },
     data(){
         return {

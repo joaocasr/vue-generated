@@ -64,36 +64,36 @@
 </template>
 
 <script>
-import Movie7 from '@/components/Movie7.vue';
+import Movie6 from '@/components/Movie6.vue';
+import Movie1 from '@/components/Movie1.vue';
 import Movie8 from '@/components/Movie8.vue';
 import Varianthome from '@/components/Varianthome.vue';
-import Movie1 from '@/components/Movie1.vue';
-import Navbar from '@/components/Navbar.vue';
 import Movie2 from '@/components/Movie2.vue';
-import Movie3 from '@/components/Movie3.vue';
-import Movie5 from '@/components/Movie5.vue';
-import Variantmovies from '@/components/Variantmovies.vue';
-import Homebanner from '@/components/Homebanner.vue';
-import Footer from '@/components/Footer.vue';
-import Variantseries from '@/components/Variantseries.vue';
-import Movie6 from '@/components/Movie6.vue';
 import Movie4 from '@/components/Movie4.vue';
+import Movie7 from '@/components/Movie7.vue';
+import Variantseries from '@/components/Variantseries.vue';
+import Variantmovies from '@/components/Variantmovies.vue';
+import Movie5 from '@/components/Movie5.vue';
+import Navbar from '@/components/Navbar.vue';
+import Homebanner from '@/components/Homebanner.vue';
+import Movie3 from '@/components/Movie3.vue';
+import Footer from '@/components/Footer.vue';
 export default {
     components:{
-        Movie7,
+        Movie6,
+        Movie1,
         Movie8,
         Varianthome,
-        Movie1,
-        Navbar,
         Movie2,
-        Movie3,
-        Movie5,
-        Variantmovies,
-        Homebanner,
-        Footer,
+        Movie4,
+        Movie7,
         Variantseries,
-        Movie6,
-        Movie4
+        Variantmovies,
+        Movie5,
+        Navbar,
+        Homebanner,
+        Movie3,
+        Footer
     },
     data(){
         return {

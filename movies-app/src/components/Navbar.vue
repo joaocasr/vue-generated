@@ -16,7 +16,7 @@
     <v-menu>
      <template v-slot:activator="{ props }">
       <div v-bind="props">
-       <img src="/iconMenu3367540.png"/>
+       <img alt="iconMenu3367540" src="/iconMenu3367540.png"/>
       </div>
      </template>
      <v-list>
@@ -38,14 +38,14 @@
 </template>
     
 <script>
-import Variantseries from '@/components/Variantseries.vue';
 import Variantmovies from '@/components/Variantmovies.vue';
 import Varianthome from '@/components/Varianthome.vue';
+import Variantseries from '@/components/Variantseries.vue';
 export default {
     components:{
-        Variantseries,
         Variantmovies,
-        Varianthome
+        Varianthome,
+        Variantseries
     },
     data(){
         return {
