@@ -41,7 +41,7 @@
  <p class="grid-item text3367333">
   10 Oct 2022
  </p>
- <div class="grid-item container3367334" v-on:click="gotoReviewPage()">
+ <div class="grid-item container3367334" v-on:click="gotoReviewPage3367334()">
   <p class="grid-item text3367335">
    Insert My Review
   </p>
@@ -79,29 +79,29 @@
 </template>
 
 <script>
-import Related3 from '@/components/Related3.vue';
-import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
-import Insertstatusmodal from '@/components/Insertstatusmodal.vue';
-import Navbar from '@/components/Navbar.vue';
-import Varianthome from '@/components/Varianthome.vue';
 import Related1 from '@/components/Related1.vue';
+import Related3 from '@/components/Related3.vue';
+import Varianthome from '@/components/Varianthome.vue';
+import Navbar from '@/components/Navbar.vue';
+import Insertstatusmodal from '@/components/Insertstatusmodal.vue';
+import Confirmationwatchlistmodal from '@/components/Confirmationwatchlistmodal.vue';
 import Variantmovies from '@/components/Variantmovies.vue';
+import Review from '@/components/Review.vue';
 import Footer from '@/components/Footer.vue';
 import Related2 from '@/components/Related2.vue';
-import Review from '@/components/Review.vue';
 import Variantseries from '@/components/Variantseries.vue';
 export default {
     components:{
-        Related3,
-        Confirmationwatchlistmodal,
-        Insertstatusmodal,
-        Navbar,
-        Varianthome,
         Related1,
+        Related3,
+        Varianthome,
+        Navbar,
+        Insertstatusmodal,
+        Confirmationwatchlistmodal,
         Variantmovies,
+        Review,
         Footer,
         Related2,
-        Review,
         Variantseries
     },
     data(){
@@ -147,13 +147,13 @@ export default {
         scrollTo3367326(){
             this.$refs.ref3367349?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
         },
-        gotoReviewPage(){
+        gotoReviewPage3367334(){
             this.$router.push({path:"/reviewpage"});
         },
-        gotoHomePage(){
+        gotoHomePage3367291(){
             this.$router.push({path:"/homepage"});
         },
-        gotoWatchlistPage(){
+        gotoWatchlistPage3367294(){
             this.$router.push({path:"/watchlistpage"});
         },
         selectedItem3367298(){
@@ -168,7 +168,7 @@ export default {
             this.selectedClass33671262=this.componentclass33671262;
             this.currentVariant33671262= 'homehomehoverno'
 		},
-		gotoHomePage(){
+		gotoHomePage3367145(){
             if(this.selectedClass33671262==this.componentclass3367145){
                 this.$router.push({path:"/homepage"});
             }

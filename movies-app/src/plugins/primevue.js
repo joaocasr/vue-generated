@@ -1,28 +1,23 @@
 import PrimeVue from 'primevue/config';
 import Material from '@primevue/themes/material';
 import 'primeicons/primeicons.css';
-import Checkbox from 'primevue/checkbox';
-import Toast from 'primevue/toast';
 import { Form } from '@primevue/forms';
-import Message from 'primevue/message';
 import InputText from 'primevue/inputtext';
-import InputIcon from 'primevue/inputicon';
-import IconField from 'primevue/iconfield';
+import Message from 'primevue/message';
+import Toast from 'primevue/toast';
 
 
 export default function usePrimeVue(app){
-
-app.use(PrimeVue, {
-theme: {
-preset: Material
-}
-});
-app.component('Checkbox',Checkbox)
-app.component('Toast',Toast);
+    
+    app.use(PrimeVue, {
+      theme: {
+        preset: Material
+    }
+    });
+  
 app.component('Form',Form)
-app.component('Message',Message)
 app.component('InputText',InputText)
-app.component('InputIcon',InputIcon)
-app.component('IconField',IconField)
+app.component('Message',Message)
+app.component('Toast',Toast)
 
 }

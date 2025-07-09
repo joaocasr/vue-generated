@@ -1,6 +1,6 @@
 <template>
 <div>
- <div class="grid-item-3367145 container3367146" v-on:click="gotoHomePage()">
+ <div class="grid-item-3367145 container3367146" v-on:click="gotoHomePage3367146()">
   <p class="grid-item-3367145 text3367147">
    HOME
   </p>
@@ -18,7 +18,7 @@ export default {
         }
     },
     methods:{
-        gotoHomePage(){
+        gotoHomePage3367146(){
             this.$router.push({path:"/homepage"});
         }
 	}

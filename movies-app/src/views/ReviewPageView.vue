@@ -32,15 +32,15 @@
 </template>
 
 <script>
-import Navbar from '@/components/Navbar.vue';
 import Varianthome from '@/components/Varianthome.vue';
+import Navbar from '@/components/Navbar.vue';
 import Variantmovies from '@/components/Variantmovies.vue';
 import Footer from '@/components/Footer.vue';
 import Variantseries from '@/components/Variantseries.vue';
 export default {
     components:{
-        Navbar,
         Varianthome,
+        Navbar,
         Variantmovies,
         Footer,
         Variantseries
@@ -65,10 +65,10 @@ export default {
         }
     },
     methods:{
-        gotoHomePage(){
+        gotoHomePage3367291(){
             this.$router.push({path:"/homepage"});
         },
-        gotoWatchlistPage(){
+        gotoWatchlistPage3367294(){
             this.$router.push({path:"/watchlistpage"});
         },
         selectedItem3367298(){
@@ -83,7 +83,7 @@ export default {
             this.selectedClass33671262=this.componentclass33671262;
             this.currentVariant33671262= 'homehomehoverno'
 		},
-		gotoHomePage(){
+		gotoHomePage3367145(){
             if(this.selectedClass33671262==this.componentclass3367145){
                 this.$router.push({path:"/homepage"});
             }

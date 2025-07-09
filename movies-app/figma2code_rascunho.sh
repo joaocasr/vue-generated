@@ -3,7 +3,6 @@ npm install primevue
 npm install primeicons
 npm install @primevue/themes
 npm install @primevue/themes
-npm install @primevue/forms
 npm install vuetify
 npm install @mdi/font
 npm install

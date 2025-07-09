@@ -64,36 +64,36 @@
 </template>
 
 <script>
-import Movie6 from '@/components/Movie6.vue';
-import Movie3 from '@/components/Movie3.vue';
-import Movie2 from '@/components/Movie2.vue';
-import Movie4 from '@/components/Movie4.vue';
+import Movie7 from '@/components/Movie7.vue';
 import Movie8 from '@/components/Movie8.vue';
-import Homebanner from '@/components/Homebanner.vue';
+import Varianthome from '@/components/Varianthome.vue';
 import Movie1 from '@/components/Movie1.vue';
 import Navbar from '@/components/Navbar.vue';
-import Varianthome from '@/components/Varianthome.vue';
-import Variantmovies from '@/components/Variantmovies.vue';
-import Footer from '@/components/Footer.vue';
-import Movie7 from '@/components/Movie7.vue';
+import Movie2 from '@/components/Movie2.vue';
+import Movie3 from '@/components/Movie3.vue';
 import Movie5 from '@/components/Movie5.vue';
+import Variantmovies from '@/components/Variantmovies.vue';
+import Homebanner from '@/components/Homebanner.vue';
+import Footer from '@/components/Footer.vue';
 import Variantseries from '@/components/Variantseries.vue';
+import Movie6 from '@/components/Movie6.vue';
+import Movie4 from '@/components/Movie4.vue';
 export default {
     components:{
-        Movie6,
-        Movie3,
-        Movie2,
-        Movie4,
+        Movie7,
         Movie8,
-        Homebanner,
+        Varianthome,
         Movie1,
         Navbar,
-        Varianthome,
-        Variantmovies,
-        Footer,
-        Movie7,
+        Movie2,
+        Movie3,
         Movie5,
-        Variantseries
+        Variantmovies,
+        Homebanner,
+        Footer,
+        Variantseries,
+        Movie6,
+        Movie4
     },
     data(){
         return {
@@ -124,13 +124,16 @@ export default {
         }
     },
     methods:{
-        gotoMoviePage(){
+        gotoMoviePage3367250(){
             this.$router.push({path:"/moviepage"});
         },
-        gotoHomePage(){
+        gotoMoviePage3367252(){
+            this.$router.push({path:"/moviepage"});
+        },
+        gotoHomePage3367291(){
             this.$router.push({path:"/homepage"});
         },
-        gotoWatchlistPage(){
+        gotoWatchlistPage3367294(){
             this.$router.push({path:"/watchlistpage"});
         },
         selectedItem3367298(){
@@ -145,7 +148,7 @@ export default {
             this.selectedClass33671262=this.componentclass33671262;
             this.currentVariant33671262= 'homehomehoverno'
 		},
-		gotoHomePage(){
+		gotoHomePage3367145(){
             if(this.selectedClass33671262==this.componentclass3367145){
                 this.$router.push({path:"/homepage"});
             }

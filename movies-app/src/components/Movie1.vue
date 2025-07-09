@@ -1,8 +1,8 @@
 <template>
 <div>
- <img alt="container3367250" class="grid-item-3367166 container3367250" src="/image103367250.png" v-on:click="gotoMoviePage()"/>
+ <img alt="container3367250" class="grid-item-3367166 container3367250" src="/image103367250.png" v-on:click="gotoMoviePage3367250()"/>
  <div class="grid-item-3367166 container3367251">
-  <a class="grid-item-3367166 text3367252" href="/MoviePage" v-on:click="gotoMoviePage()">
+  <a class="grid-item-3367166 text3367252" href="/MoviePage" v-on:click="gotoMoviePage3367252()">
    Avatar
   </a>
   <p class="grid-item-3367166 text3367253">
@@ -32,7 +32,10 @@ export default {
         }
     },
     methods:{
-        gotoMoviePage(){
+        gotoMoviePage3367250(){
+            this.$router.push({path:"/moviepage"});
+        },
+        gotoMoviePage3367252(){
             this.$router.push({path:"/moviepage"});
         }
 	}
