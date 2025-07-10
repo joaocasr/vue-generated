@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.component273587 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:1;
+  grid-column-end:65;
+  grid-row-start:49;
+  grid-row-end:64;
+  margin:0;
+  padding:0;
+  border: 1.5px solid rgba(249.6875050663948,249.6875050663948,249.6875050663948,1.0);
+  background-color:rgba(0.0,0.0,0.0,0.0);
+
+  border-radius: 4.0px;
+}
+  
+.grid-item-273587 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.text1281501 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 1.1111111111111112vw;
+	font-family: 'Poppins', sans-serif;
+	text-align: left;
+	line-height: 24px;
+	color: rgba(249.6875050663948,249.6875050663948,249.6875050663948,1.0);
+	grid-column-start: 6;
+	grid-column-end: 44;
+	grid-row-start: 25;
+	grid-row-end: 47;
+	opacity: 40.00000059604645%;
+	display: flex;
+	overflow-wrap: break-word;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+
+.container1281537 {
+	min-width: 100%;
+	min-height: 100%;grid-column-start: 4;
+	grid-column-end: 62;
+	grid-row-start: 7;
+	grid-row-end: 59;
+}
+

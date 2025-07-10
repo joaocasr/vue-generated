@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+.component3195114 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:29;
+  grid-column-end:38;
+  grid-row-start:84;
+  grid-row-end:90;
+  margin:0;
+  padding:0;
+  background-color:rgba(25.00962719321251,25.00962719321251,25.00962719321251,1.0);
+
+  border-radius: 22.0px;
+}
+  
+.grid-item-3195114 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
+.text31862911 {
+	font-style: Regular;
+	font-weight: 400;
+	font-size: 2.0833333333333335vw;
+	font-family: 'Inter', sans-serif;
+	text-align: left;
+	line-height: 67px;
+	color: rgba(255.0,255.0,255.0,1.0);
+	grid-column-start: 22;
+	grid-column-end: 45;
+	grid-row-start: 22;
+	grid-row-end: 44;
+	display: flex;
+	overflow-wrap: break-word;
+	text-decoration: none;
+	white-space: normal;
+	width: 100%;
+	align-items: stretch;
+	justify-content: stretch;
+}
+

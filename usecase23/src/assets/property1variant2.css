@@ -1,0 +1,23 @@
+
+.component285720 {
+  display:grid;
+  grid-template-columns:repeat(64,1fr);
+  grid-template-rows:repeat(64,1fr);
+  grid-column-start:7;
+  grid-column-end:17;
+  grid-row-start:24;
+  grid-row-end:30;
+  margin:0;
+  padding:0;
+  background-color:rgba(199.58652466535568,145.85169285535812,145.85169285535812,1.0);
+
+}
+  
+.grid-item-285720 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+  
